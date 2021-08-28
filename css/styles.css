@@ -38,10 +38,13 @@ padding-left: 9rem;
 }
 .title-img{
 width: 60%;
-transform:rotate(25deg)
+transform:rotate(25deg);
+
 }
 #features{
   padding: 7% 15%;
+
+
 }
 .feature-box{
   text-align: center;
